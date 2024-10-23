@@ -1,0 +1,23 @@
+.parent{
+    width: 100%;
+}
+#Navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* justify-content: space-around; */
+    border-bottom: solid;
+    border-color: #C4C4C4;
+    margin-right: 15px;
+}
+.logo{
+    margin-left: 15px; 
+}
+.home a{
+    margin: 20px;
+    text-decoration: none; 
+    color: black;
+}
+a:hover{
+    color: #1090cb;
+}
